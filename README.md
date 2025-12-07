@@ -17,6 +17,7 @@ Power BI Desktop
 slothful.pbix – Power BI dashboard file
 
 ▶️ How to View
+
 Download the .pbix file
 Open it in Power BI Desktop (free to install)
 
